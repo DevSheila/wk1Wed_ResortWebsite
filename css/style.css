@@ -33,6 +33,16 @@ ul {
     margin: 200px 200px;
     
   }
+#services-section{
+  text-align: center;
+  margin: 100px 200px;
+
+}
+
+#services-list{
+  display: flex;
+  align-items: center;
+}
 
   
 
