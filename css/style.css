@@ -27,7 +27,7 @@ ul {
     height: 550px;
     background-image: url('../images/artem-kniaz-n-K0G3ymYgc-unsplash.jpg');
   }
-
+  
   #header-items{
     text-align: center;
     margin: 200px 200px;
@@ -42,6 +42,20 @@ ul {
 #services-list{
   display: flex;
   align-items: center;
+}
+.pictures-header{
+  height: 550px;
+  
+}
+.resort-img{
+  width: 400px;
+  height: 400px;
+}
+
+#resort-list{
+  display: flex;
+  align-items: center;
+  
 }
 
   
