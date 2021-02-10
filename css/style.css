@@ -16,8 +16,23 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+   
   }
   
   li a:hover {
     background-color: #111;
   }
+
+  .header-section{
+    height: 550px;
+    background-image: url('../images/artem-kniaz-n-K0G3ymYgc-unsplash.jpg');
+  }
+
+  #header-items{
+    text-align: center;
+    margin: 200px 200px;
+    
+  }
+
+  
+
