@@ -1,3 +1,8 @@
+body{
+  background-color: #111;
+}
+
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -36,6 +41,7 @@ ul {
 #services-section{
   text-align: center;
   margin: 100px 200px;
+  color: aliceblue;
 
 }
 
